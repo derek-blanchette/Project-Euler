@@ -1,2 +1,2 @@
-# Project-Euler
-Att
+# Project-Euler [R]
+Attempted solutions in R
