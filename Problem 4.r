@@ -1,5 +1,5 @@
 # Euler Project Problem 4
-# https://projecteuler.net/problem=3
+# https://projecteuler.net/problem=4
 # Derek R. Blanchette
 
 pals <- NULL
