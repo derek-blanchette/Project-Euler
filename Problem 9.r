@@ -1,7 +1,6 @@
 # Euler Project #9
 # Derek R. Blanchette
 
-
 for (i in seq(146,1000)){
     for (j in seq(i+1,1000)){
         for (k in seq(j+1,1000)){
