@@ -24,5 +24,5 @@ while ( f1 + f2 < 4000000) {
         total <- total + f3
     }    
 }
-
+# Solution
 print(total)
