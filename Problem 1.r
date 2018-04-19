@@ -14,5 +14,5 @@ for (i in seq(1,999)){
         total = total + i
         }
 }
-
+# Solution
 print(total)
