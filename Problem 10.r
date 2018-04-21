@@ -1,3 +1,7 @@
+# Projec Euler Problem 10
+# 
+# Derek R. Blanchette
+
 sieve <- function(n)
 {
   n <- as.integer(n)
