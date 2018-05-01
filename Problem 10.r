@@ -1,6 +1,6 @@
 # Euler Problem 10
 # https://projecteuler.net/problem=10
-# Derek R. Blanchette
+#Derek R. Blanchette
 
 sieve <- function(n)
 {
