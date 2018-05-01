@@ -2,7 +2,7 @@
 # https://projecteuler.net/problem=11
 # Derek R. Blanchette
 
-grid <- read.table("G:/Coding/Project-Euler/data11.csv", sep=",", header = T)
+grid <- read.table("data11.csv", sep=",", header = T)
 
 grid1 <- as.matrix(grid)
 results <- data.frame()
@@ -78,4 +78,4 @@ for (roww in seq(1:20)) {
   }  
 }
 
-write.table(results, "G:/coding/project-euler/results11.csv", sep=",", row.names=FALSE)
+write.table(results, "results11.csv", sep=",", row.names=FALSE)
