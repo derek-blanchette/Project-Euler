@@ -4,7 +4,6 @@
 
 library(compiler)
 
-
 do.factors <- function(x) {
   x <- as.integer(x)
   div <- seq_len(abs(x))
@@ -13,7 +12,7 @@ do.factors <- function(x) {
   return(factors)
 }
 
-#compile to byte code to speed up
+#compile to new function
 fast.do.factors <- cmpfun(do.factors)
 
 index <- 6300
